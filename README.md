@@ -1,5 +1,7 @@
 # Azure Functions: Desenvolvendo com Java, Maven e Eclipse
 
+**Artigo sobre o repositório:** [Azure Functions: Desenvolvendo com Java, Maven e Eclipse — Parte 1](https://medium.com/@thomsdacosta/azure-functions-desenvolvendo-com-java-maven-e-eclipse-parte-1-cdba425fc590)
+
 Artigo explicando o desenvolvimento de uma Azure Function em Java, utilizando um ambiente de desenvolvimento local e demonstrando a estrutura básica de uma aplicação Serverless.
 
 ### Tecnologias
